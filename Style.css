@@ -1,0 +1,25 @@
+body{
+  background-color: grey;
+}
+h1{
+  font-family: fantasy;
+}
+p{
+  font-family: sans-serif;
+}
+ul{
+  font-family: sans-serif;
+  text-align: center;
+}
+li{
+  display: inline-block;
+}
+li:hover{
+  color: blue;
+}
+#beef {
+  border: 5px solid balck;
+  width: 250px;
+  padding: 10px;
+  display:block;
+}
